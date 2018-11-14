@@ -353,4 +353,4 @@ client.user.setGame(`1play | Last Music`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login('NTEyMjM3NzM3MDgxMDQ0OTky.Ds2qdg.z3rRbVKILjyCEKnqNfSt3AnARzM');
+client.login('NTEyMjQ4OTE4MDE3NTcyODc1.Ds2sqw.rGlMHTpM_9FXkhwtneje__BztaQ');
